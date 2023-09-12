@@ -1,5 +1,14 @@
-### Hi there 👋
+## 개발을 즐기는 개발자 👋
 
+> **_Web Developer_**
+</br> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+>
+> 
+🤔 [portfolio](https://www.notion.so/c05327528ea14b788403d601adb63b89)  
+😄 [blog](https://ljy1011.tistory.com)
 <!--
 **Leejaeyeop/Leejaeyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
