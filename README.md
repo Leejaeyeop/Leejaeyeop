@@ -1,7 +1,8 @@
 ## 성장에 목마른 개발자!
 
+> **_Frontend Developer_**
+> </br></br>
 ![Jaeyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejaeyeop&show_icons=true&theme=dracula)
-> **_Web Developer_**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
