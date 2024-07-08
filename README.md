@@ -1,7 +1,9 @@
 ### 성장에 목마른 Junior 개발자
 
 > **_Frontend Developer_**
-> 
+>
+![Jaeyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejaeyeop&show_icons=true&theme=tokyonight)
+</br></br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwoduq78)](https://solved.ac/dlwoduq78/)
 
 
