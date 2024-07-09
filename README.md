@@ -1,4 +1,4 @@
-### 성장에 목마른 Junior 개발자
+### 성장에 목마른 개발자
 
 > **_Frontend Developer_**
 >
