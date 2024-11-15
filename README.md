@@ -3,6 +3,15 @@
 > **_Frontend Developer_**
 >
 ![Jaeyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejaeyeop&show_icons=true&theme=tokyonight)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Leejaeyeop"
+  width="600"
+  height="300"
+/>
+</a>
+
 </br></br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwoduq78)](https://solved.ac/dlwoduq78/)
 
