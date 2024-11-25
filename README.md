@@ -30,4 +30,5 @@
 
 </br></br>
 </br></br>
+💪 [portfolio](https://leejaeyeop-blog.vercel.app/)
 😄 [blog](https://ljy1011.tistory.com)
